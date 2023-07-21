@@ -1,0 +1,52 @@
+body{
+    background-color: blue;
+    width: 80%;
+    margin: auto;
+    padding-top: 120px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#field h1{
+    font-size: 75px;
+    font-weight: bolder;
+    color: white;
+}
+
+#field span{
+    color: #FFF868;
+}
+
+#field .userin{
+    background-color: #908CDA;
+    padding: 30px;
+    width: 500px;
+    outline: none;
+    border: none;
+    border-radius: 5px;
+}
+
+#field .userin input{
+    padding: 10px 20px;
+    width: 300px;
+    font-size: 20px;
+    outline: none;
+    border: none;
+    border-radius: 5px;
+}
+
+#field .userin button{
+    padding: 12px 13px;
+    width: 105px;
+    font-size: 17px;
+    outline: none;
+    border: none;
+    border-radius: 5px;
+    background-color: #FFF868;
+    margin-left: 15px;
+}
+
+#field h5{
+    margin-top: 50px;
+    color: white;
+    font-size: 20px;
+}
